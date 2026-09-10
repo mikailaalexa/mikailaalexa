@@ -13,5 +13,5 @@ I am a Year 13 student combining studies in **Edexcel Mathematics** and **CIE Co
 - **Security Concepts:** Continuous Authentication, Access Control, Cryptography
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn]((https://www.linkedin.com/in/mikailaalexa/))
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/mikailaalexa/]))
 - 📧 Email: mikailaalexam@gmail.com
