@@ -15,3 +15,6 @@ I am a Year 13 student combining studies in **Edexcel Mathematics** and **CIE Co
 ### 📬 Let's Connect!
 - 💼 [LinkedIn] (https://www.linkedin.com/in/mikailaalexa/]
 - 📧 Email: mikailaalexam@gmail.com
+  
+### 🎯 My TryHackMe Stats
+![TryHackMe Profile Badge](https://tryhackme.com/p/mikailaalexam)
